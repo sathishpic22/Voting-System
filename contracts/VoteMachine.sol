@@ -13,6 +13,8 @@ struct Voter{
         bool isapproved;
 }
 
+
+
 struct Contestent{
     string contestentName;
     int voteCount;
